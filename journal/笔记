@@ -1,0 +1,7 @@
+Linux
+  1. 分区
+  2, 格式化
+  3. 设备文件名
+  4. 挂载点  使用以建立的空目录作为挂载点（任何目录都可以，除了/bin//ete//lib）
+1. ifconfig 查询IP地址
+2. service network restart 重启网络服务
